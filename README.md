@@ -31,10 +31,14 @@ How to Replace a Broken Suspension Spring
 6. Level the clock and put it "in beat." Hang the clock back on the wall and listen to the tick-tock. Tilt the bottom of the clock case slightly left or right until the "tick" and "tock" sound completely even, then adjust the nut at the bottom of the pendulum bob to regulate the time.
 Warning: If your clock is key-wound or weight-driven and needs internal gear repairs beyond the pendulum hanger, do not remove the movement plates yourself unless you have a mainspring let-down tool—wound clock mainsprings store enough tension to cause serious hand injuries if released suddenly.
 
+Example details from eBay:
+- note wire on end of suspension spring
+- slotted suspension post for suspension spring
+- pendulum leader passes through crutch
+- retainer bar for crutch onto the pallet arbor pivot
+
 <img width="1246" height="1600" alt="image" src="https://github.com/user-attachments/assets/c6399be5-7b3e-49e7-afaa-7505895ae47f" />
 
-<img width="849" height="913" alt="image" src="https://github.com/user-attachments/assets/8ed8c75a-3340-4dfa-b6e4-2ccf58d06546" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/8ef39edf-6d56-471b-a891-6bb1197f024f" />
 
-<img width="245" height="359" alt="image" src="https://github.com/user-attachments/assets/79451dfd-b22a-4292-88f8-7ba0324df9ed" />
-
-
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/bfeef52e-e3c4-4d49-aa89-40e82d77fd49" />
